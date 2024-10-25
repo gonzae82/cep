@@ -1,2 +1,1 @@
-# cep
-SQL para Cidades, Estados e Países
+# Base em MySQL para Cidades, Estados e Países
